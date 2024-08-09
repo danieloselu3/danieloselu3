@@ -20,5 +20,3 @@ Welcome to my corner of GitHub! I'm a data whisperer who loves turning chaos int
 
 - Lifelong learner with a knack for problem-solving.
 - Always on the lookout for new challenges and opportunities.
-
-Let's turn data dreams into reality, one project at a time!
